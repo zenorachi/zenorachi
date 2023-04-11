@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @zenorachi
 - 👀 I’m interested in backend, mathematics, algorithms and data structures
-- 🌱 I’m currently learning С, C++, Java
+- 🌱 I’m currently learning С, C++
