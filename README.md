@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @zenorachi
-- 👀 I’m interested in backend, mathematics, algorithms and data structures
-- 🌱 I’m currently learning C++ and Java
+<h1 align="center">Hi there, I'm Maksim
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Golang developer, School21 student 🧑🏻‍💻</h3>
