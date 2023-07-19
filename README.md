@@ -5,6 +5,9 @@
     <a href="https://leetcode.com/zenorachi/">
       <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
     </a>
+    <a href="https://t.me/zenorachii">
+      <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
     <a href="">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -22,7 +25,7 @@ I am a Golang Developer and School21 student <img src="https://media.giphy.com/m
 
 - :dart: I’m currently learning Golang / PostgreSQL.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zenorachii)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zenorachii)
 
 ---
 
