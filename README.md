@@ -22,7 +22,7 @@ I am a Golang Developer and School21 student <img src="https://media.giphy.com/m
 
 - :dart: I’m currently learning Golang / PostgreSQL.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zenorachi)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zenorachii)
 
 ---
 
