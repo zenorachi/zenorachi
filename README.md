@@ -11,9 +11,9 @@
     <a href="msonkin33@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-      <div>
+<!--       <div>
       <img src="https://komarev.com/ghpvc/?username=zenorachi&style=flat-square&color=blue" alt=""/>
-    </div>
+    </div> -->
   </div>
 </div>
 
