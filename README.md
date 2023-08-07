@@ -23,7 +23,7 @@
 I am a Golang Developer and School21 student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I'm interested in backend programming and algorithms.
 
-- :dart: I’m currently learning Golang / PostgreSQL.
+- :dart: I’m currently learning Golang / PostgreSQL / DevOps.
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zenorachii)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:msonkin33@gmail.com)
 
