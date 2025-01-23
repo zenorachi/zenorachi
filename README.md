@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Golang Developer and School 21 student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Golang Developer and School 21 graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I'm interested in backend programming and algorithms.
 
 - :dart: I’m currently learning Golang / Python / PostgreSQL / DevOps.
